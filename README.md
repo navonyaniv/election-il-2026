@@ -5,3 +5,6 @@ It is rewritten automatically from the Central Elections Committee's published r
 No polls or partial results are published before the polls close at 22:00.
 
 Sources: Central Elections Committee (votes26.bechirot.gov.il), data.gov.il, OpenStreetMap contributors.
+
+`data/` holds the static map data the map script loads: towns and districts (geometry from OpenStreetMap contributors,
+ODbL; town list and populations from data.gov.il), party names and colours, and town emblems (Wikimedia Commons).
