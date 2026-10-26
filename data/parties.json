@@ -1,5 +1,5 @@
 {
- "note": "אותיות הפתק -> שם וצבע. רשימה שאינה כאן מוצגת באפור.",
+ "note": "אותיות הפתק -> שם וצבע (38 הרשימות של 2026, לפי פרסום ועדת הבחירות). רשימות קטנות באפור.",
  "parties": [
   {
    "letters": "מחל",
@@ -70,6 +70,126 @@
    "letters": "די",
    "name": "המילואימניקים",
    "color": "#795548"
+  },
+  {
+   "letters": "צדק",
+   "name": "שרשרת לאהבה ואחדות העם",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "צף",
+   "name": "הפיראטים",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "ך",
+   "name": "עמך ישראל",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "י",
+   "name": "ישראל תחילה",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "ה",
+   "name": "גן עדן",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "קה",
+   "name": "קול הנשים",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "בד",
+   "name": "ביחד נצליח",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "קץ",
+   "name": "משפט צדק",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "נף",
+   "name": "שמע",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "קך",
+   "name": "סדר חדש",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "זך",
+   "name": "הציבור החרדי",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "פה",
+   "name": "אני ואתה",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "זץ",
+   "name": "ברית עולם",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "נקי",
+   "name": "התיקון לשיטת הבחירות",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "יק",
+   "name": "גוש התנ\"כי",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "ז",
+   "name": "בטח",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "בקר",
+   "name": "אורות השחר",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "נץ",
+   "name": "ביטחון אישי",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "נר",
+   "name": "צבע שחור",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "צבי",
+   "name": "תנועת אחי",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "בי",
+   "name": "צומת בית ישראל",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "ק",
+   "name": "תקומה",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "רץ",
+   "name": "הקהל",
+   "color": "#9E9E9E"
+  },
+  {
+   "letters": "ני",
+   "name": "נעם",
+   "color": "#9E9E9E"
   }
  ],
  "surplus": [],
